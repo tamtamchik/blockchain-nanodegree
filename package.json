@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-nanodegree",
+  "version": "1.0.0",
+  "description": "Demo projects from Udacity blockchain-nanodegree",
+  "main": "index.js",
+  "type": "module",
+  "author": "Yuri Tkachenko <me@tamtamchika.net>",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "16.11.7"
+  },
+}
