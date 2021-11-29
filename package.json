@@ -12,5 +12,6 @@
   "scripts": {
     "practice:hash": "node practice/hash/hash.js",
     "practice:block": "node practice/block/app.js",
+    "practice:blockchain": "node practice/blockchain/blockchain.js"
   }
 }
