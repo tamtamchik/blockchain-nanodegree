@@ -9,4 +9,7 @@
   "devDependencies": {
     "@types/node": "16.11.7"
   },
+  "scripts": {
+    "practice:hash": "node practice/hash/hash.js",
+  }
 }
