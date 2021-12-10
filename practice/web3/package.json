@@ -1,0 +1,16 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "10.0.0",
+    "web3": "1.6.1"
+  },
+  "scripts": {
+    "run": "node ."
+  }
+}
