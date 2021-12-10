@@ -1,0 +1,14 @@
+{
+  "name": "remix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remix-project/remixd": "0.5.5"
+  },
+  "scripts": {
+    "dev": "remixd -s ./src --remix-ide https://remix.ethereum.org"
+  }
+}
