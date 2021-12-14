@@ -1,0 +1,19 @@
+{
+  "name": "ganache",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "3.4.0",
+    "http-server": "14.0.0",
+    "web3": "1.6.1"
+  },
+  "scripts": {
+    "dev": "node .",
+    "serve": "http-server public"
+  }
+}
